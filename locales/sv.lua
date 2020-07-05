@@ -1,9 +1,9 @@
 Locales['sv'] = {
-  ['kill_by_admin']    = '^1[KILL] ^0You have been killed by admin',
-  ['teleported']       = '^1[TPM]^0 You teleported to waypoint',
-  ['set_waypoint']     = '^1[TPM]^0 Select waypoint on map first!',
+  ['kill_by_admin']    = '^1[KILL] ^0Du har blivit dödad av en admin',
+  ['teleported']       = '^1[TPM]^0 Du har teleporterat till vägpunkten',
+  ['set_waypoint']     = '^1[TPM]^0 Välj en vägpunkt på kartan först!',
   ['your_rank']        = '^3Din rank på servern : ^0%s',
-  ['no_online']        = '^1No online player ^0',
+  ['no_online']        = '^1Ingen spelare online ^0',
   ['report']           = '^1REPORT ^2[^0%s | %s^2]^0 : %s',
   ['invalid_input']    = '^1[%s]^0 Invalid input',
   ['admin_announce']   = '^1Admin Announcement ^2[^0%s^2] ^0: %s',
