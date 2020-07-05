@@ -9,6 +9,7 @@ shared_scripts {
     'locales/en.lua',
     'locales/es.lua',
     'locales/fa.lua',
+    'locales/sv.lua',
     'config.lua'
 }
 client_script 'client.lua'
